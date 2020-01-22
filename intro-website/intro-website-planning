@@ -1,0 +1,72 @@
+My intro website details:
+
+//////////////////////////////////////////////////PLANNING: 
+
+1. Website about: me
+
+2. Information about me: 
+
+Title: 
+Jason Nelemans
+02-02-1994 | Amsterdam, Netherlands 
+
+Nicknames: 
+They've given me a few nicknames over the years. None of them appropriate here. 
+Call me as you like, but I respond most to Jason ;) 
+
+My opinions: 
+Favourite recreational events? 
+Hang with friends and family, go to the cinema, read a book/manga or watch a tv show/anime. 
+When I get a chance to: travel. But also... DANCING! 
+
+So you like movies? Favourite cinematic universe? 
+!!Star Wars!! but I'm unhappy with Disney Star Wars... I shed tears over its lost potential. 
+
+Previous employment? 
+I'm master of the oddjobs! I've been a waiter, bartender, labourer, builder, 
+delivery driver, farm hand and teacher in different parts of the world. 
+
+Why coding? 
+Looking for something stable with good future perspectives and decent salary. 
+And because it's fun;) 
+
+A recipe for a happy life? 
+
+Is there such a thing? 
+Just kidding;) 
+Eternal mantra: Don't worry. Be happy. Take it easy. 
+Or try at least :) It's all in the head. 
+
+Plot twist: 
+Inside my head:
+INSERT CRAZY IMAGES OF HELL AND SUFFERING.
+
+
+////////////////////////////////////////////////////////ASSETS: 
+
+Theme color: 
+#2F63F2 #E7ECF3
+
+and/or black and yellow SW theme
+
+Images: 
+
+https://pxhere.com/en/photo/1090931 (space1)
+https://commons.wikimedia.org/wiki/File:Star_Wars_Logo_2.svg (sw1)
+
+HTML <head>
+<link href="https://fonts.googleapis.com/css?family=Pathway+Gothic+One&display=swap" rel="stylesheet">
+</head>
+
+CSS:
+font-family: 'Pathway Gothic One', sans-serif;
+
+
+
+
+
+
+
+
+
+
